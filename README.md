@@ -6,3 +6,5 @@ I study media informatics in Regensburg and I learn everything about software de
 - 🌱 I’m currently learning php, NodeJS and mySQL
 - 👯 I’m looking to collaborate on ...
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NilsHellwig&layout=compact">
+
