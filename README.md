@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I study media informatics in Regensburg and I learn everything about software development and good usability. 
+I study media informatics in Regensburg and I learn everything about software engineering. 
 
-- 🔭 I’m currently working on a NLP Project.
+- 🔭 I’m currently working on a Natural Language Processing Project.
 - 🌱 I’m currently learning php, NodeJS and mySQL.
-- 💡 Plans for the future: Learning VueJS, MongoDB and Swift.
 
 ## Programming Languages
 <img src = 'https://github.com/NilsHellwig/NilsHellwig/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/NilsHellwig/NilsHellwig/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/NilsHellwig/NilsHellwig/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/NilsHellwig/NilsHellwig/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/NilsHellwig/NilsHellwig/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/NilsHellwig/NilsHellwig/blob/master/images/js.svg' width='30'/><img src = 'https://github.com/NilsHellwig/NilsHellwig/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/NilsHellwig/NilsHellwig/blob/master/images/php.svg' width='40'/><img src = 'https://github.com/NilsHellwig/NilsHellwig/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/NilsHellwig/NilsHellwig/blob/master/images/git.svg' width='30'/>
