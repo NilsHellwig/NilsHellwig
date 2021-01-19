@@ -9,7 +9,7 @@ I study media informatics in Regensburg and I learn everything about software en
  
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NilsHellwig&layout=compact">
 
-## To-Do: Things I want to learn next
+## To-Do:
  
 - Flask
 - Sass
