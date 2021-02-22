@@ -1,6 +1,4 @@
-### Hi there 👋
 
-I study media informatics in Regensburg and I learn everything about software engineering. 
 
 
 ## Programming Languages
@@ -17,4 +15,3 @@ I study media informatics in Regensburg and I learn everything about software en
 - Typo3
 - MongoDB
 - NativeScript
-- improve mySQL skills
