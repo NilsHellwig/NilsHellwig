@@ -7,11 +7,3 @@
  
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NilsHellwig&layout=compact">
 
-## To-Do:
- 
-- Flask
-- Sass
-- Bootstrap
-- Typo3
-- MongoDB
-- NativeScript
