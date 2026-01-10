@@ -14,13 +14,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NilsHellwig&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
----
-
 ## 📫 Get in Touch
 
 - 💼 Academic & Research collaborations welcome
 - 🌍 English / Deutsch
+
+<p>
+  <a href="https://github.com/NilsHellwig">🐙 GitHub</a> •
+  <a href="https://www.linkedin.com/in/nils-hellwig/">💼 LinkedIn</a> •
+  <a href="mailto:nils.hellwig@ur.de">✉️ Email</a> •
+  <a href="https://scholar.google.com/citations?user=VzUTKcwAAAAJ">🎓 Google Scholar</a>
+</p>
