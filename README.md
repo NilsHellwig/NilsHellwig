@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Nils Hellwig
 
 🎓 **PhD Researcher | NLP & Large Language Models**  
-🧠 Aspect-Based Sentiment Analysis • Data Augmentation • Retrieval-Augmented Generation  
-
 ---
 
 ## 🚀 About Me
