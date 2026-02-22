@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nils Hellwig
 
-🎓 **PhD Researcher | NLP & Large Language Models**  
+🎓 **PhD Researcher | NLP**  
 ---
 
 ## 🚀 About Me
